@@ -37,3 +37,7 @@ CRUD application for the movies database system
      -> method : GET
      -> Time: 326 ms
      -> Description : To filter the movies on the basis of the Director’s name.
+
+## Table/Collection for the Database
+![image](https://user-images.githubusercontent.com/102714192/209464410-f5e78229-27a7-403e-9762-7112b7c379f6.png)
+
